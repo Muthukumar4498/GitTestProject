@@ -14,6 +14,7 @@ namespace GitTestProject.Pages
 
         public void OnGet()
         {
+            string firstname = "";
         }
     }
 }
